@@ -1,3 +1,8 @@
 Django
 selenium
 pandas
+djangorestframework
+scikit-learn
+joblib
+psycopg2
+psycopg2-binary
