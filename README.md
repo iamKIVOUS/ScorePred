@@ -1,4 +1,9 @@
 
+## To check the basket ball field
+    cd backend
+    python manage.py runserver
+    visit http://127.0.0.1:8000/admin default user: kivous pass:kivous
+    
 # scorePred 🏏
 
 A Django-based IPL score prediction and data analysis tool using scraped data from ESPNcricinfo.
@@ -25,4 +30,6 @@ A Django-based IPL score prediction and data analysis tool using scraped data fr
 4. run scraper/automator.py
     python scrape/automator.py
 
-## ML training will be added later
+## ML training will be added later for ipl
+
+
