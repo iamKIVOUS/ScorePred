@@ -6,7 +6,6 @@ A Django-based IPL score prediction and data analysis tool using scraped data fr
 ## Features
 - Scrapes latest IPL match, batter, and bowler data.
 - Imports scraped data into Django models.
-- Ready for future ML-based score predictions.
 
 ## Project Structure
 - `scraper/`: Contains all scraping scripts
@@ -25,3 +24,5 @@ A Django-based IPL score prediction and data analysis tool using scraped data fr
     pip install -r requirements.txt
 4. run scraper/automator.py
     python scrape/automator.py
+
+## ML training will be added later
